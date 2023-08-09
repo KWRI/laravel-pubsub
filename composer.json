@@ -11,7 +11,7 @@
   "repositories": [
     {
       "type": "vcs",
-      "url": "https://github.com/aditiapratama1231/php-pubsub-google-cloud.git"
+      "url": "https://github.com/KWRI/php-pubsub-google-cloud.git"
   }
   ],
   "require": {
